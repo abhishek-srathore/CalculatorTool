@@ -1,7 +1,8 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import calculator.Calculator;
 
-public class CalculatorTest {
+public class AdditionTest {
 
     @Test
     public void testAdd() {
